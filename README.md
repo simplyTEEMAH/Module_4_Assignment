@@ -8,7 +8,7 @@ Analyse and visualise the Netflix dataset
 - The assignment aims to prepare, clean and explore the netflix dataset.
 - Missing values are handled within the dataset 
 - The dataset is also explored and statistical summary viewed.
-- Pyhton and R programs are used to visualise the most watched genres and ratings distribution within the dataset.
+- Python and R programs are used to visualise the most watched genres and ratings distribution within the dataset.
 
 
 
@@ -32,4 +32,4 @@ https://nexford.instructure.com/courses/6056/pages/using-matplotlib?module_item_
 https://nexford.instructure.com/courses/6056/pages/using-seaborn?module_item_id=292786
 - Programming in R and Python. February 2025. Data Visualization and Plotting in Python
 https://nexford.instructure.com/courses/6056/pages/using-plotly?module_item_id=292787
-Chatgpt.com
+- Chatgpt.com
